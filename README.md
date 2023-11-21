@@ -17,8 +17,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://b-viv.github.io/product_preview_card/)
+- Solution URL: [Link](https://www.frontendmentor.io/solutions/product-preview-card-FXpt4bOE5D)
+- Live Site URL: [Link](https://b-viv.github.io/product_preview_card/)
 
 ## My process
 
